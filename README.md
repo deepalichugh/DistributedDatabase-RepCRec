@@ -2,7 +2,7 @@
 ## Replicated Concurrency Control and Recovery Project
 Authors: 
 
-	Rushab Rakesh Shah, Deepali Chugh
+	Deepali Chugh, Rushab Rakesh Shah
 
 Language:
 
